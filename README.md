@@ -1,1 +1,1 @@
-# Project_2
+Explore data acquisition and wrangling techniques using Python's NumPy and Pandas libraries. Learn how to efficiently handle and manipulate large datasets with NumPy's array operations and Pandas' DataFrame functionalities. Discover methods for cleaning data, handling missing values, and transforming data structures to prepare them for analysis. Explore various data acquisition methods, including reading data from CSV files, databases, web sources using Pandas. Dive into practical exercises to apply data acquisition and wrangling techniques.
